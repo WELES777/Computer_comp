@@ -6,7 +6,7 @@
 Your title: Vasyl Demaniuk.
 
                             
-Site: vasia.wendetta@gmail.com, link to contact form etc.
+Site: vasyldemianiuk.com
 
                             
 Facebook: Vasyl Demianiuk.
@@ -20,4 +20,4 @@ Location: Chestochowa, Poland.
                             
 Standards: HTML4, CSS2.1
                             
-Software: Sublimetext 3, Firefox, Adobe Photoshop CC
+Software: Sublimetext 3, Firefox, Adobe Photoshop CC ...
